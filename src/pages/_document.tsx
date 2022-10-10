@@ -35,22 +35,18 @@ class MyDocument extends Document {
         <Head>
           <meta charSet="UTF-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          {/* CSS minireset */}
-          <link
-            rel="stylesheet"
-            href="https://cdn.jsdelivr.net/gh/jgthms/minireset.css@master/minireset.min.css"
-          />
-          <link rel="preconnect" href="https://fonts.googleapis.com" />
+
+          {/* Noto Sans KR GOOGLE WEB FONT */}
+          {/* <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link
             rel="preconnect"
             href="https://fonts.gstatic.com"
             crossOrigin="true"
           />
-          {/* Noto Sans KR GOOGLE WEB FONT */}
           <link
             href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap"
             rel="stylesheet"
-          />
+          /> */}
           {this.props.styles}
         </Head>
         <body>
