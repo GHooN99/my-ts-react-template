@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## My TS+React Template
 
-## Getting Started
+> 저는 이렇게 코딩해요! 나만의 템플릿 레포지토리입니다. (with ts-react, nextjs)
 
-First, run the development server:
+### [과정 정리 블로그 (곧 업로드 됩니다!..)](https://ghoon99.tistory.com/91)
+
+### [나만의 코딩 컨벤션 문서](https://confirmed-textbook-87e.notion.site/GHooN99-Coding-Convention-af7846fea706408cb9921019f1ce7ff6)
+
+### 실행 방법
 
 ```bash
-npm run dev
-# or
-yarn dev
+# degit 으로 깃헙 레포지토리 다운로드
+npx degit ghoon99/my-ts-react-template [folder-name]
+cd [folder-name]
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### dependencies
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```json
+"dependencies": {
+    "@tanstack/react-query": "4.9.0",
+    "axios": "0.27.2",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "5.3.6"
+  },
+  "devDependencies": {
+    "@tanstack/react-query-devtools": "4.9.0",
+    "@trivago/prettier-plugin-sort-imports": "3.3.0",
+    "@types/node": "18.8.0",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "@types/styled-components": "5.1.26",
+    "@typescript-eslint/eslint-plugin": "5.38.1",
+    "@typescript-eslint/parser": "5.38.1",
+    "eslint": "8.24.0",
+    "eslint-config-next": "12.3.1",
+    "typescript": "4.8.4"
+  }
+```
