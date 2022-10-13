@@ -2,8 +2,8 @@
 
 > 저는 이렇게 코딩해요! 나만의 템플릿 레포지토리입니다. (with ts-react, nextjs)
 
-#### [과정 정리 블로그 1편 (깃 컨벤션과 폴더구조)](https://ghoon99.tistory.com/91)
-#### [과정 정리 블로그 2편 (코딩 스타일 가이드와 템플릿, 후기)](https://ghoon99.tistory.com/91)
+#### [과정 정리 블로그 1편 (깃 컨벤션과 폴더구조)](https://ghoon99.tistory.com/92)
+#### [과정 정리 블로그 2편 (코딩 스타일 가이드와 템플릿, 후기)](https://ghoon99.tistory.com/93)
 
 <br/>
 
