@@ -2,7 +2,10 @@
 
 > 저는 이렇게 코딩해요! 나만의 템플릿 레포지토리입니다. (with ts-react, nextjs)
 
-### [과정 정리 블로그 (곧 업로드 됩니다!..)](https://ghoon99.tistory.com/91)
+#### [과정 정리 블로그 1편 (깃 컨벤션과 폴더구조)](https://ghoon99.tistory.com/91)
+#### [과정 정리 블로그 2편 (코딩 스타일 가이드와 템플릿, 후기)](https://ghoon99.tistory.com/91)
+
+<br/>
 
 ### [나만의 코딩 컨벤션 문서](https://confirmed-textbook-87e.notion.site/GHooN99-Coding-Convention-af7846fea706408cb9921019f1ce7ff6)
 
